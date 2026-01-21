@@ -2,6 +2,8 @@
 
   ## Policing in Practice: Investigating Police Conduct and Civilian Response Through Body-Worn Video
 
+_Due to the sensitive nature of the project, some data has been redacted to keep in line with data protection and confidentiality._
+
   ⋆｡˚ ☁︎ ˚｡⋆⋆｡˚ ☁︎ ˚｡⋆⋆｡˚ ☁︎ ˚｡⋆⋆｡˚ ☁︎ ˚｡⋆⋆｡˚ ☁︎ ˚｡⋆⋆｡˚ ☁︎ ˚｡⋆
 <div/>  
 
