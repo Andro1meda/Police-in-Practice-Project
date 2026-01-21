@@ -13,6 +13,12 @@ _Due to the sensitive nature of the project, some data has been redacted to keep
 
 ## _Executive Summary_
 
+### Table of Contents
+[Introduction](#introduction-)  
+[Methodology](#methodology-)  
+[Results](#results-)  
+[Implications](#implications-)
+
 
 ### 💮 Introduction 💮
 Following events in recent years, calls for transparency and accountability in policing have grown. Body-Worn Cameras (BWCs) were introduced as a tool not only to improve accountability and transparency of police conduct, but also to allow researchers to examine police-citizen interaction. These recordings capture both police conduct and citizen responses, providing insights into what prompts cooperation, non-compliance, resistance or escalation during encounters. 
