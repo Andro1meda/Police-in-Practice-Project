@@ -14,10 +14,10 @@ _Due to the sensitive nature of the project, some data has been redacted to keep
 ## _Executive Summary_
 
 ### Table of Contents
-- [Introduction](#introduction--)  
-- [Methodology](#methodology--)  
-- [Results](#results--)  
-- [Implications](#implications--)
+- [Introduction](#--introduction--)  
+- [Methodology](#--methodology--)  
+- [Results](#--results--)  
+- [Implications](#--implications--)
 
 
 ### 💮 Introduction 💮
